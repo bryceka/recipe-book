@@ -2,6 +2,8 @@ branch-defaults:
   default:
     environment: recipe-book-dev
     group_suffix: null
+  main:
+    environment: recipe-book-dev
 global:
   application_name: recipe-book
   branch: null
